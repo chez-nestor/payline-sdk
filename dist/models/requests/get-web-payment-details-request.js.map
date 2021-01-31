@@ -1,0 +1,1 @@
+{"version":3,"file":"get-web-payment-details-request.js","sourceRoot":"","sources":["../../../src/models/requests/get-web-payment-details-request.ts"],"names":[],"mappings":";;AAAA,iDAA2C;AAE3C,MAAM,2BAA4B,SAAQ,0BAAW;IAGnD,YAAY,KAAa;QACvB,KAAK,EAAE,CAAC;QACR,IAAI,CAAC,KAAK,GAAG,KAAK,CAAC;IACrB,CAAC;CACF;AAEO,kEAA2B"}

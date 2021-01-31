@@ -1,0 +1,1 @@
+{"version":3,"file":"status-request.js","sourceRoot":"","sources":["../../../src/services/extensions/status-request.ts"],"names":[],"mappings":";;AAIA;;GAEG;AACH,MAAM,aAAa;IACjB,YAA6B,OAAgB;QAAhB,YAAO,GAAP,OAAO,CAAS;IAC7C,CAAC;IAED;;OAEG;IACI,4BAA4B,CAAC,OAAqC;QACvE,OAAO,IAAI,CAAC,OAAO,CAAC,YAAY,CAAC,uBAAuB,EAAE,OAAO,CAAC,CAAC;IACrE,CAAC;CAEF;AAEO,sCAAa"}
